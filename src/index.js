@@ -7,7 +7,8 @@ const session = require('telegraf/session')
 const hearsHandler = require('./handlers/hears')
 const {
   NODE_ENV,
-  BOT_API
+  BOT_API,
+  PORT
 } = process.env
 
 let bot
@@ -34,7 +35,7 @@ if (NODE_ENV !== 'development') {
   bot.launch({
     webhook: {
       domain: 'https://krivart-bible.herokuapp.com',
-      port: 3000
+      port: PORT
     }
   })
 }
