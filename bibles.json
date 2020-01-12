@@ -1,0 +1,623 @@
+{
+  "bibles": [
+    {
+      "bible": "darby",
+      "title": "1890 Darby Bible",
+      "abbreviatedTitle": "DARBY",
+      "publicationDate": "1996",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.7/cover.jpg",
+      "description": "As an ex-Anglican minister and the founder of the Plymouth Brethren, Darby's influence started the Niagara Conferences, which were the beginnings of prophetically-oriented Bible conferences in America. First published in 1890, this translation comes after Darby's understanding of the original languages matured during the writing of his French and German translations of the Bible.",
+      "searchFields": [
+        "surface",
+        "heading",
+        "largetext",
+        "bible",
+        "words-of-christ"
+      ],
+      "copyright": "Public Domain.",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "asv",
+      "title": "American Standard Version",
+      "abbreviatedTitle": "ASV 1901",
+      "publicationDate": "1901",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.60/cover.jpg",
+      "description": "The ASV has long been regarded by many scholars as the most literal English translation since the King James Version—maybe the most literal translation ever. This has made the translation very popular for careful English Bible study, but not for ease of reading. While the KJV was translated entirely from “western manuscripts,” the ASV 1901 was influenced also by the older “eastern manuscripts” that form the basis for most of our modern English translations. Because the ASV 1901 is very difficult to find in print, Logos is pleased to be able to preserve and distribute this significant work. This is an excellent choice for comparative English study.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "heading",
+        "tag",
+        "title",
+        "bible",
+        "words-of-christ"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "ar-vandyke",
+      "title": "Arabic Bible (Smith & Van Dyke)",
+      "abbreviatedTitle": "ABSVD",
+      "publicationDate": "1865",
+      "languages": [
+        "ar"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.290/cover.jpg",
+      "description": "Arabic Bible, Smith & Van Dyke translation\r\nPlease note that this resource currently requires the Arial Unicode MS font. While not publicly downloadable, Arial Unicode MS has the greatest depth of Arabic Unicode coverage amongst fonts with Arabic Unicode support that LDLS users are likely to own.",
+      "searchFields": [
+        "largetext",
+        "surface",
+        "bible"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "byz",
+      "title": "Byzantine/Majority Textform Greek New Testament",
+      "abbreviatedTitle": "BYZ",
+      "publicationDate": "1995",
+      "languages": [
+        "el"
+      ],
+      "publishers": [
+        "Original Word"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.330/cover.jpg",
+      "description": "The Byzantine Majority Greek text represents the texttype reflected among the vast majority of extant manuscripts. It is from this family of Byzantine texts that the early printed Greek New Testaments (\"Textus Receptus\" editions) and early English versions such as the Bishop's, Geneva, Coverdale, and King James Version derive, as well as the early European versions such as that of Luther and the Dutch Staten Vertaling.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "bible"
+      ],
+      "copyright": "Copyright 1991 The Original Word Publishers",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "elzevir",
+      "title": "Elzevir Textus Receptus (1624) with Morphology",
+      "abbreviatedTitle": "Elzevir",
+      "publicationDate": "1624",
+      "languages": [
+        "el"
+      ],
+      "publishers": [],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.324/cover.jpg",
+      "description": "The Stephens 1550 Textus Receptus adjusted to reflect the text of Elzevir 1624. Prepared by Dr. Maurice Robinson from the collation data in Scrivener's Plain Introduction (1st ed. 1861), 304-310; and Hoskier's A Full Collation of Ev.  604, Appendix B, 1-14.\r\nMorphological information originated with Dr. Maurice Robinson's editions of the Stephen's Textus Receptus (1550) With Morphology and Scrivener's Textus Receptus (1894) With Morphology. Morphological information and lemmas integrated by Logos Research Systems, Inc.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "bible",
+        "pmt",
+        "variant",
+        "attic",
+        "particle-attached",
+        "aeolic",
+        "irregular",
+        "apocopated",
+        "middle-significance",
+        "transitive",
+        "abbreviated"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": "Public Domain. Text prepared by Dr. Maurice Robinson"
+    },
+    {
+      "bible": "emphbbl",
+      "title": "The Emphasized Bible",
+      "abbreviatedTitle": "EMPH",
+      "publicationDate": "1959",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Kregel"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_emphbbl/cover.jpg",
+      "description": "The Emphasized Bible, by Joseph Bryant Rotherham, is a unique translation which helps English-only Bible readers to understand the linguistic and literary nuances of the Greek and Hebrew texts. This translation aims for a literal rendering of the original languages, and adds markings to the English text to indicate emphases, parallel structures, and the other linguistic features. It also includes accent marks, brackets, indentations, and other markings within the text itself, to help communicate the features in Greek and Hebrew which are lost in translation.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "heading",
+        "bible",
+        "abbrevpop",
+        "footnote",
+        "transnote",
+        "generalnote",
+        "crossref"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "it-diodati1649",
+      "title": "Giovanni Diodati Bibbia",
+      "abbreviatedTitle": "GDB",
+      "publicationDate": "1649",
+      "languages": [
+        "it"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.265/cover.jpg",
+      "description": "Giovanni Diodati Bibbia, 1649.",
+      "searchFields": [
+        "largetext",
+        "surface",
+        "bible"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "kjv",
+      "title": "The Holy Bible: King James Version",
+      "abbreviatedTitle": "AV",
+      "publicationDate": "1995",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.3/cover.jpg",
+      "description": "Also known as the “Authorized Version,” The King James Version of the Bible is still the most widely used text in the English language. The Logos KJV includes the Strong’s Numbers which allow English readers to identify and search for underlying Greek and Hebrew words in the original text.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "footnote",
+        "bible",
+        "words-of-christ"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "kjv1900",
+      "title": "King James Version",
+      "abbreviatedTitle": "KJV 1900",
+      "publicationDate": "1900",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_kjv1900/cover.jpg",
+      "description": "This King James Version is based upon the Pure Cambridge Edition first published around 1900.  It has been carefully typeset to remove any typographical errors and accurately reflects the original text.",
+      "searchFields": [
+        "surface",
+        "bible",
+        "largetext",
+        "heading",
+        "footnote",
+        "transnote",
+        "crossref",
+        "words-of-christ"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "kjvapoc",
+      "title": "The King James Version Apocrypha",
+      "abbreviatedTitle": "KJV Apoc",
+      "publicationDate": "1995",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.4/cover.jpg",
+      "description": "Includes the books of I & II Esdras, Tobit, Judith, Additions to Esther, Wisdom of Solomon, Sirach, Baruch, Letter of Jeremiah, Song of Three Youths, Susanna, Bel and the Dragon, Prayer of Manasseh, and I & II Maccabees.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "heading",
+        "bible"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "lsg",
+      "title": "La Bible Louis Segond 1910",
+      "abbreviatedTitle": "LS1910",
+      "publicationDate": "1996",
+      "languages": [
+        "fr"
+      ],
+      "publishers": [],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.520/cover.jpg",
+      "description": "Équivalent français de la version classique dite King James version.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "bible",
+        "words-of-christ"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "eo-zamenbib",
+      "title": "La Sankta Biblio",
+      "abbreviatedTitle": "LSB",
+      "publicationDate": "1926",
+      "languages": [
+        "eo"
+      ],
+      "publishers": [
+        "Brita Kaj Alilanda Biblia Societo"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.220/cover.jpg",
+      "description": "Malnova kaj Nova Testamentoj\r\nTradukitaj el la Originalaj Lingvoj\r\nBrita kaj Alilanda Biblia Societo\r\nNacia Biblia Societo de Skotlando",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "bible"
+      ],
+      "copyright": "",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "leb",
+      "title": "The Lexham English Bible",
+      "abbreviatedTitle": "LEB",
+      "publicationDate": "2012",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Lexham Press"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_leb/cover.jpg",
+      "description": "The Lexham English Bible contains a translation of the original languages into smooth, readable English. It also contains copious footnotes which address translation issues, instances of Old Testament quotations in the New Testament, and various textual-critical issues. This translation also indicates the use of idioms in the Greek and Hebrew text. In cases where a literal rendering of Greek or Hebrew would prevent a smooth English translation, footnotes indicate the literal English translation, accompanied by explanatory notes as necessary.",
+      "searchFields": [
+        "surface",
+        "footnote",
+        "bible",
+        "largetext",
+        "heading"
+      ],
+      "copyright": "Copyright 2012 Lexham Press",
+      "extendedCopyright": "Copyright 2012 Lexham Press. All rights reserved."
+    },
+    {
+      "bible": "scrmorph",
+      "title": "The New Testament in Greek (Scrivener 1881)",
+      "abbreviatedTitle": "Scrivener 1881",
+      "publicationDate": "1881",
+      "languages": [
+        "el"
+      ],
+      "publishers": [
+        "Cambridge University Press"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_scrmorph/cover.jpg",
+      "description": "This Greek text (Scrivener 1881) is the Greek text which corresponds best to the 1611 King James Version. The Scrivener text is a modified Beza 1598 Textus Receptus in which changes have been made to reflect the readings chosen by the KJV translators. Scrivener's intent was to artificially create a Greek text that closely matched the translator-modified Textus Receptus text and the resulting English version. This is a useful text for comparison for those with proficiency in Greek.\r\nFurther, this edition of the text is fully morphologically tagged with the Logos Bible Software morphology; it also includes lemma (dictionary) forms and Strongs numbers for every word in the Greek text.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "footnote",
+        "bible",
+        "gloss",
+        "pmt",
+        "used-as",
+        "variant"
+      ],
+      "copyright": "Copyright 2008 Logos Research Systems, Inc.",
+      "extendedCopyright": "Copyright 2008 Logos Research Systems, Inc."
+    },
+    {
+      "bible": "fi-raamattu",
+      "title": "Raamattu (1933, 1938)",
+      "abbreviatedTitle": "R19331938",
+      "publicationDate": "2009",
+      "languages": [
+        "fi"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_fi-raamattu/cover.jpg",
+      "description": "Vanha Testamentti—Vuoden 1933 kirkolliskokouksen käyttöön ottama suomennos.\r\nUusi Testamentti—Vuoden 1938 kirkolliskokouksen käyttöön ottama suomennos.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "heading",
+        "bible"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "rvr60",
+      "title": "Reina Valera Revisada (1960)",
+      "abbreviatedTitle": "RVR60",
+      "publicationDate": "1998",
+      "languages": [
+        "es"
+      ],
+      "publishers": [
+        "Sociedades Bíblicas Unidas"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.502/cover.jpg",
+      "description": "Es una revisión y actualización de la Reina-Valera 1909. Reúne las características de la versión de 1909, pero en un lenguaje más actual, de acuerdo al uso del castellano literario de la década de los 50. Fue revisada por un excelente equipo de gente conocedora de la exégesis bíblica y el castellano. Es, hoy por hoy, la versión más leída y estudiada en los círculos evangélicos de habla hispana.\r\nVale la pena recordar al usuario que esta versión, como las otras revisiones de la Reina-Valera hechas por las SBU, mantiene tanto la base textual de la primera Reina-Valera, así como su base exegética y nivel y calidad literaria. Ha mantenido como sus predecesoras la división por versículos para hacer más fácil la lectura en público de la Biblia.",
+      "searchFields": [
+        "surface",
+        "bible",
+        "largetext",
+        "heading",
+        "footnote",
+        "transnote",
+        "crossref"
+      ],
+      "copyright": "Copyright 1960 Sociedades Bíblicas Unidas",
+      "extendedCopyright": "Copyright 1960 Sociedades Bíblicas Unidas"
+    },
+    {
+      "bible": "rva",
+      "title": "Reina-Valera Actualizada",
+      "abbreviatedTitle": "RVA",
+      "publicationDate": "1989",
+      "languages": [
+        "es"
+      ],
+      "publishers": [
+        "Baptist Spanish Publishing House",
+        "Editorial Mundo Hispano"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.500/cover.jpg",
+      "description": "This edition of the Reina Valera (RVA) is the latest in the long line of revisions of the classic Casiodore de Reina Bible of 1569. This edition is based on the 1909 and 1960 revisions and uses the best Hebrew and Greek texts available today. The RVA uses a contemporary language that people can understand throughout the Spanish speaking world.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "heading",
+        "bible",
+        "footnote",
+        "generalnote",
+        "words-of-christ"
+      ],
+      "copyright": "Copyright 1989 Editorial Mundo Hispano",
+      "extendedCopyright": "The Bible text in this publication is from the SANTA BIBLIA: VERSION REINA-VALERA ACTUALIZADA copyright 1982, 1986, 1987, 1989 by Editorial Mundo Hispano, PO Box 4256, El Paso, Texas 79914, and is used by permission."
+    },
+    {
+      "bible": "bb-sbb-rusbt",
+      "title": "Russian Synodal Bible Translation",
+      "abbreviatedTitle": "RUSBT",
+      "publicationDate": "1995",
+      "languages": [
+        "ru"
+      ],
+      "publishers": [
+        "Российское Библейское общество"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_bb_sbb_rusbt/cover.jpg",
+      "description": "Священное Писание в Синодальном переводе. Неканонические книги Ветхого Завета помещены отдельно перед книгами Нового Завета. Деление текста на главы дополнено делением на смысловые отрыки. Указатель параллельных мест, сведение о неканонических книгах, указатели ветхозаветных, евангельских и апостольских церковных чтений. Цветные географические карты.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "heading",
+        "bible"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": "Public Domain"
+    },
+    {
+      "bible": "scr",
+      "title": "Scrivener’s Textus Receptus (1881)",
+      "abbreviatedTitle": "TR1881",
+      "publicationDate": "2002",
+      "languages": [
+        "el"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.321/cover.jpg",
+      "description": "The Textus Receptus 1881 Greek text is the corresponding Greek text to the 1611 King James Version. The Scrivener text is a modified Beza 1598 Textus Receptus in which changes have been made to reflect the readings chosen by the KJV translators. Scrivener’s intent was to artificially create a Greek text that closely matched the translator-modified Textus Receptus text and the resulting English version. This is a useful text for comparison for those with proficiency in Greek.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "footnote",
+        "bible"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": "The underlying formatting and organization of the Scrivener's Greek Text is copyrighted material and may not be used outside the context of academic citations and journals without the express permission of the owner, Kirk DiVietro."
+    },
+    {
+      "bible": "tr1894mr",
+      "title": "Scrivener’s Textus Receptus (1894) with Morphology",
+      "abbreviatedTitle": "TR1894MR",
+      "publicationDate": "2002",
+      "languages": [
+        "el"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.326/cover.jpg",
+      "description": "The Scrivener 1894 Textus Receptus edition, with complete parsing information for all Greek words. Morphological analysis provided by Dr. Maurice A. Robinson.\r\nThe Textus Receptus 1894 Greek text is the corresponding Greek text to the 1611 King James Version. The Scrivener text is a modified Beza 1598 Textus Receptus in which changes have been made to reflect the readings chosen by the KJV translators. Scrivener’s intent was to artificially create a Greek text that closely matched the translator-modified Textus Receptus text and the resulting English version. This is a useful text for comparison for those with proficiency in Greek.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "heading",
+        "bible",
+        "pmt",
+        "attic",
+        "particle-attached",
+        "aeolic",
+        "irregular",
+        "apocopated",
+        "middle-significance",
+        "transitive",
+        "abbreviated"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "svv",
+      "title": "Statenvertaling",
+      "abbreviatedTitle": "SVV",
+      "publicationDate": "1997",
+      "languages": [
+        "nl"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.511/cover.jpg",
+      "description": "This is the classic Dutch equivalent of the English King James Version (Authorized Version) and, like the Authorized Version, was completed in the 1600's. Both the KJV and the Statenvertaling shared common source materials.",
+      "searchFields": [
+        "largetext",
+        "surface",
+        "bible"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "stephens",
+      "title": "Stephen’s Textus Receptus (1550)",
+      "abbreviatedTitle": "Stephens",
+      "publicationDate": "2001",
+      "languages": [
+        "el"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.320/cover.jpg",
+      "description": "The Textus Receptus 1550 Greek text is best known as the basis for the King James Version or Authorized Version completed in the year 1611. This is a useful text for comparison for those with proficiency in Greek.",
+      "searchFields": [
+        "largetext",
+        "surface",
+        "bible"
+      ],
+      "copyright": "Public Domain.",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "tanakh",
+      "title": "Tanakh: The Holy Scriptures (1985)",
+      "abbreviatedTitle": "Tanakh",
+      "publicationDate": "1985",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Jewish Publication Society"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.150/cover.jpg",
+      "description": "The Tanakh is an entirely original translation of the Holy Scriptures (Old Testament) into contemporary English, based on the Masoretic-the traditional Hebrew text. It is the culmination of three decades of collaboration by academic scholars and rabbis representing the three largest branches of organized Judaism in America. They drew upon the latest findings in linguistics and archaeology as well as the work of early rabbinic and medieval commentators, grammarians, and philologians. The resulting text is a triumph of literary style and biblical scholarship, unsurpassed in accuracy and clarity.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "footnote",
+        "heading",
+        "bible",
+        "transnote",
+        "generalnote",
+        "crossref",
+        "versenum"
+      ],
+      "copyright": "Copyright 1985 Jewish Publication Society",
+      "extendedCopyright": "References to Tanakh, The Holy Scriptures Copyright 1985, The Jewish Publication Society of Philadelphia, PA. All rights reserved."
+    },
+    {
+      "bible": "wbtc-ptbrnt",
+      "title": "Versão Fácil De Ler",
+      "abbreviatedTitle": "VFDL",
+      "publicationDate": "1999",
+      "languages": [
+        "pt"
+      ],
+      "publishers": [
+        "WBTC"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.661/cover.jpg",
+      "description": "The New Testament in Portuguese.\r\nWBTC Mission\r\nOur mission is to provide accurate, easy-to-understand translations of God’s Word in the world’s major languages.\r\nCurrently we are working in 17 languages with more being added regularly. By God’s grace we have released 24 New Testaments and 10 complete Bibles with more than 20 million Scripture items placed in the hands of people around the world.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "footnote",
+        "bible"
+      ],
+      "copyright": "Copyright 2001 World Bible Translation Center",
+      "extendedCopyright": "Impresso no Brasil com a devida autorização da World Bible Translation Center.\r\nÉ permitido citar até 50 versículos sem a permissão por escrito dos editores, contanto que a sequinte linha de crédito seja inclusa:\r\n(VFL) WBTC, Editora Vida Cristã\r\nPedidos de citações ou reimpressões para fins comerciais que excedam 50 versículos devem ser dirigidos a\r\nEDITORA VIDA CRISTÃ\r\nRua Carlos Meira, 396 – Penha\r\n03605-010 – São Paulo – SP – Brasil\r\nTeleFax: (011) 6941-7788\r\nhttp://www.vidacrista.com.br\r\nemail: mailto:editora@vidacrista.com.br"
+    },
+    {
+      "bible": "wh1881mr",
+      "title": "Westcott and Hort Greek New Testament (1881) with Morphology",
+      "abbreviatedTitle": "WH1881MR",
+      "publicationDate": "2002",
+      "languages": [
+        "el"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.327/cover.jpg",
+      "description": "According to Bruce M. Metzger, this edition was “the most noteworthy critical edition of the Greek Testament ever produced by British scholarship.” They presented what is doubtless the oldest and purest text that could be attained with the means of information available in their day. They took the critical methodology which was then in nascent form, refined it, and applied it to the various texts, producing the classification system which is still in use today; their evaluation of the various texts and text families, almost unchanged, is still accepted. This text, published in 1881, is the first modern critical text and as such the ancestor of the NA/UBS text. It is of use to those interested in the history of textual scholarship and to those who do serious critical work. This particular edition of the 1881 Westcott and Hort text contains morphological analysis contributed by Dr. Maurice Robinson.",
+      "searchFields": [
+        "surface",
+        "largetext",
+        "footnote",
+        "bible",
+        "pmt",
+        "ot-quote",
+        "attic",
+        "particle-attached",
+        "irregular",
+        "apocopated",
+        "middle-significance",
+        "transitive"
+      ],
+      "copyright": "Public Domain",
+      "extendedCopyright": ""
+    },
+    {
+      "bible": "ylt",
+      "title": "Young’s Literal Translation",
+      "abbreviatedTitle": "YLT",
+      "publicationDate": "1997",
+      "languages": [
+        "en"
+      ],
+      "publishers": [
+        "Faithlife"
+      ],
+      "imageUrl": "http://covers.logoscdn.com/lls_1.0.8/cover.jpg",
+      "description": "Robert Young is best known for his monumental work, Young’s Analytical Concordance To The Bible. Young’s Literal Translation is a very good work to add to your Bible collection for text comparisons. Since this is a very literal translation, it offers a good contrast and comparison to a dynamic equivalent translation like the NIV.",
+      "searchFields": [
+        "largetext",
+        "surface",
+        "bible",
+        "words-of-christ"
+      ],
+      "copyright": "Public Domain.",
+      "extendedCopyright": ""
+    }
+  ]
+}

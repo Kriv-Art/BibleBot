@@ -1,0 +1,39 @@
+{
+  "name": "bible-bot",
+  "version": "0.0.0",
+  "description": "A telegram bot for geting bible verses based on telegraf",
+  "repository": {
+    "url": "Kriv-Art/BibleBot",
+    "type": "git"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "supervisor -x telegraf src/index.js",
+    "start": "telegraf",
+    "now-start": "telegraf -d ${NOW_URL}",
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
+  "engines": {
+    "node": ">=8.5.0"
+  },
+  "author": "krivahtoo <krivahtoo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.34.0",
+    "telegraf-inline-menu": "^4.0.0",
+    "telegraf-ratelimit": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "supervisor": "^0.12.0"
+  }
+}
