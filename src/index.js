@@ -27,8 +27,10 @@ bot.start(({ replyWithMarkdown }) => replyWithMarkdown(
   '   or\n' +
   '`Some messsage with a Mt4.4 verse in between text`'
 ))
-bot.help(({ reply }) => reply('Comming Soon'))
-bot.settings(({ reply }) => reply('Comming Soon'))
+bot.help(({ reply }) => reply(
+  '🚧 Command under development'
+))
+bot.settings(({ reply }) => reply('🚧 Command under development'))
 bot.command('date', ({ reply }) => reply(`Server time: ${Date()}`))
 
 bot.on('text', hearsHandler())
