@@ -5,6 +5,8 @@ const Composer = require('telegraf/composer')
 const Telegraf = require('telegraf')
 const session = require('telegraf/session')
 const hearsHandler = require('./handlers/hears')
+const rateLimit = require('telegraf-ratelimit')
+const { rate } = require('./config')
 const {
   helpCommand,
   settingsCommand,
@@ -23,14 +25,25 @@ if (NODE_ENV === 'development') {
 } else {
   bot = new Telegraf(BOT_API)
 }
-bot.use(session())
 
+/**
+ * Middlewares
+ */
+bot.use(session())
+bot.use(rateLimit(rate))
+
+/**
+ * Commands
+ */
 bot.start(startCommand())
 bot.help(helpCommand())
 bot.settings(settingsCommand())
 bot.command('date', ({ reply }) => reply(`Server time: ${Date()}`))
 bot.command('about', aboutCommand())
 
+/**
+ * Handlers
+ */
 bot.on('text', hearsHandler())
 
 if (NODE_ENV !== 'development') {
