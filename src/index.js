@@ -14,6 +14,9 @@ const {
   startCommand
 } = require('./commands')
 const {
+  timeMiddleware
+} = require('./middlewares')
+const {
   NODE_ENV,
   BOT_API,
   PORT
@@ -30,6 +33,7 @@ if (NODE_ENV === 'development') {
  * Middlewares
  */
 bot.use(session())
+bot.use(timeMiddleware())
 bot.use(rateLimit(rate))
 
 /**
