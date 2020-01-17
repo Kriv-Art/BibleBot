@@ -1,6 +1,6 @@
 # Bible Bot
 
-[![Build Status](https://travis-ci.org/Kriv-Art/BibleBot.svg?branch=master)](https://travis-ci.org/Kriv-Art/BibleBot)
+[![Build Status](https://travis-ci.com/Kriv-Art/BibleBot.svg?branch=master)](https://travis-ci.com/Kriv-Art/BibleBot)
 
 Git repo for [Bible Bot](https://t.me/bibilia_bot)
 
