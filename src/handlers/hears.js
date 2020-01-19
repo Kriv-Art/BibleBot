@@ -19,7 +19,9 @@ module.exports = () => async (ctx) => {
       if (res.data.results[0]) {
         debug('data %O', res.data.results)
         const passage = await passageHelper(res.data.results[0].passage)
-        ctx.reply(passage)
+        ctx.replyWithMarkdown(
+          `*Verse: ${res.data.results[0].passage}*\n${passage}`
+        )
       } else {
         ctx.reply('No bible verse detected from your message.')
       }
