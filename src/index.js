@@ -11,7 +11,8 @@ const {
   helpCommand,
   settingsCommand,
   aboutCommand,
-  startCommand
+  startCommand,
+  bibleCommand
 } = require('./commands')
 const {
   timeMiddleware
@@ -44,6 +45,7 @@ bot.help(helpCommand())
 bot.settings(settingsCommand())
 bot.command('date', ({ reply }) => reply(`Server time: ${Date()}`))
 bot.command('about', aboutCommand())
+bot.command('bible', bibleCommand())
 
 /**
  * Handlers
