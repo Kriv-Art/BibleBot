@@ -8,11 +8,12 @@
   },
   "main": "src/index.js",
   "scripts": {
-    "dev": "supervisor -x telegraf src/index.js",
+    "dev": "supervisor -x telegraf -l src/index.js",
     "start": "telegraf",
     "now-start": "telegraf -d ${NOW_URL}",
     "lint": "eslint .",
-    "test": "npm run lint"
+    "test": "npm run lint",
+    "knex": "knex"
   },
   "engines": {
     "node": ">=8.5.0"
@@ -23,6 +24,8 @@
     "axios": "^0.19.1",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
+    "knex": "^0.21.0",
+    "pg": "^8.0.2",
     "telegraf": "^3.34.0",
     "telegraf-inline-menu": "^4.0.0",
     "telegraf-ratelimit": "^2.0.0"
@@ -34,6 +37,7 @@
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
+    "sqlite3": "^4.1.1",
     "supervisor": "^0.12.0"
   }
 }

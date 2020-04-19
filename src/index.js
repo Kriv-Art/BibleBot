@@ -15,12 +15,14 @@ const {
   bibleCommand
 } = require('./commands')
 const {
-  timeMiddleware
+  timeMiddleware,
+  userMiddleware
 } = require('./middlewares')
 const {
   NODE_ENV,
   BOT_API,
-  PORT
+  PORT,
+  URL
 } = process.env
 
 let bot
@@ -35,6 +37,7 @@ if (NODE_ENV === 'development') {
  */
 bot.use(session())
 bot.use(timeMiddleware())
+bot.use(userMiddleware())
 bot.use(rateLimit(rate))
 
 /**
@@ -55,7 +58,7 @@ bot.on('text', hearsHandler())
 if (NODE_ENV !== 'development') {
   bot.launch({
     webhook: {
-      domain: 'https://krivart-bible.herokuapp.com',
+      domain: URL,
       port: PORT
     }
   })
