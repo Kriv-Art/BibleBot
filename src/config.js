@@ -4,5 +4,8 @@ module.exports = {
     window: 3000,
     limit: 1,
     onLimitExceeded: (ctx, next) => ctx.reply('Please! Do not spam!!')
-  }
+  },
+  admins: [
+    111 // Enter admin ids
+  ]
 }

@@ -8,8 +8,8 @@
   },
   "main": "src/index.js",
   "scripts": {
-    "dev": "supervisor -x telegraf -l src/index.js",
-    "start": "telegraf",
+    "dev": "supervisor -x node src/index.js",
+    "start": "node src/index.js",
     "now-start": "telegraf -d ${NOW_URL}",
     "lint": "eslint .",
     "test": "npm run lint",
@@ -26,9 +26,10 @@
     "dotenv": "^8.2.0",
     "knex": "^0.21.0",
     "pg": "^8.0.2",
-    "telegraf": "^3.34.0",
+    "telegraf": "3.38.0",
     "telegraf-inline-menu": "^4.0.0",
-    "telegraf-ratelimit": "^2.0.0"
+    "telegraf-ratelimit": "^2.0.0",
+    "telegraf-session-local": "^1.0.2"
   },
   "devDependencies": {
     "eslint": "^6.7.1",
