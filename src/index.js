@@ -2,8 +2,9 @@ if (process.env.NODE_ENV === 'development') {
   require('dotenv').config()
 }
 const Telegraf = require('telegraf')
-const LocalSession = require('telegraf-session-local')
-const path = require('path')
+const { session } = Telegraf
+// const LocalSession = require('telegraf-session-local')
+// const path = require('path')
 const debug = require('debug')('bot')
 const hearsHandler = require('./handlers/hears')
 const rateLimit = require('telegraf-ratelimit')
@@ -29,15 +30,16 @@ const {
 
 const bot = new Telegraf(BOT_API)
 
-const session = new LocalSession({
-  database: path.join(__dirname, '/db/session.json'),
-  storage: LocalSession.storageFileAsync
-})
+// const session = new LocalSession({
+//   database: path.join(__dirname, '/db/session.json'),
+//   storage: LocalSession.storageFileAsync
+// })
 
 /**
  * Middlewares
  */
-bot.use(session.middleware())
+// bot.use(session.middleware())
+bot.use(session())
 bot.use(adminMiddleware())
 bot.use(timeMiddleware())
 bot.use(userMiddleware())
