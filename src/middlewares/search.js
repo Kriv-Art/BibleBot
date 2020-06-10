@@ -5,7 +5,7 @@ const debug = require('debug')('bot:middleware')
 module.exports = () => async (ctx) => {
   const text = ctx.inlineQuery.query.trim()
   if (text === '') {
-    ctx.answerInlineQuery([
+    return ctx.answerInlineQuery([
       {
         type: 'article',
         id: 1,
