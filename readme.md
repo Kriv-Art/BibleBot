@@ -11,6 +11,7 @@ Before you can run this bot you must have the following
 - Telegram bot token from @Botfather
 - Nodejs >= 8.5.0
 - yarn or npm
+- api token from biblia.com
 
 ## Usage
 
