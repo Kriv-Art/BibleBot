@@ -6,10 +6,10 @@
     "url": "Kriv-Art/BibleBot",
     "type": "git"
   },
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "supervisor -x node src/index.js",
-    "start": "node src/index.js",
+    "dev": "supervisor -x node index.js",
+    "start": "node index.js",
     "now-start": "telegraf -d ${NOW_URL}",
     "lint": "eslint .",
     "test": "npm run lint",
