@@ -1,5 +1,5 @@
 const debug = require('debug')('bot:database')
-const db = require('../../knexfile')
+const db = require('../knexfile')
 const knex = require('knex')(db[process.env.NODE_ENV])
 const { errorHandler } = require('../helpers')
 

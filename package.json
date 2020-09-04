@@ -1,7 +1,7 @@
 {
   "name": "bible-bot",
   "version": "0.1.0",
-  "description": "A telegram bot for geting bible verses by KrivArt\nPowered by telegraf JavaScript framework",
+  "description": "A telegram bot for getting bible verses by KrivArt\nPowered by telegraf JavaScript framework",
   "repository": {
     "url": "Kriv-Art/BibleBot",
     "type": "git"
