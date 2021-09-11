@@ -21,7 +21,7 @@
   "author": "krivahtoo <krivahtoo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
     "knex": "^0.21.0",
