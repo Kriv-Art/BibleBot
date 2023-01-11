@@ -24,7 +24,7 @@
     "axios": "^0.21.2",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
-    "knex": "^0.21.0",
+    "knex": "^2.4.0",
     "pg": "^8.0.2",
     "telegraf": "3.38.0",
     "telegraf-inline-menu": "^4.0.0",
